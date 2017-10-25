@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 
 defaults:
   -
-title: Bitcoin Knowledge Podcast | Learn about blockchain and fintech
+title: Bitcoin Knowledge Podcast
 layout: post
