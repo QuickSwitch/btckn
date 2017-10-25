@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bitcoin Knowledge Podcast – Learn about blockchain and fintech
 
-You can use the [editor on GitHub](https://github.com/QuickSwitch/btckn/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Interviews with top people in Bitcoin, blockchain and fintech
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
